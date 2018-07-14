@@ -3,11 +3,11 @@ description: Private theme for artifact.me
 keywords: hexo,theme,artifact,otakism
 
 # Author
-author_avatar: /img/avatar.png
+author_avatar: https://avatars1.githubusercontent.com/u/1223020?s=400&u=c3a99ef61b76bff024adc28d0c884265fbea98a0&v=4
 
 # Search
 search: 
-  enable: false
+  enable: true
   service: hexo # swiftype/google/hexo/algolia/azure
   # google 
   google_api_key: 
@@ -32,19 +32,19 @@ less:
 # use url, not username
 social:
 - name: feed
-	url: /atom.xml
-- name: email
-  url: 
+  url: https://medium.com/feed/@deptno
+- name: mail
+  url: mailto:deptno@gmail.com
 - name: github
-  url: https://github.com/artchen
+  url: https://github.com/deptno
 - name: twitter
-  url: 
+  url: https://twitter.com/deptno
 - name: google
-  url: 
+  url: https://plus.google.com/u/0/+이봉균
 - name: facebook
-  url: 
+  url: https://www.facebook.com/bonggyun.lee.7
 - name: linkedin
-  url: 
+  url: https://www.linkedin.com/in/bonggyun-lee-b55359b3/
 - name: weibo
   url: 
 - name: tumblr
@@ -54,6 +54,8 @@ social:
 - name: pinterest
   url: 
 - name: instagram
-  url: 
+  url: https://www.instagram.com/deptno/
 - name: behance
   url: 
+- name: feed
+  url: /atom.xml

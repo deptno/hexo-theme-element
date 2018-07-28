@@ -22,7 +22,7 @@ search:
   azure_query_key: 
 
 # Miscellaneous
-google_analytics: 
+google_analytics: UA-74859643-1
 favicon: /favicon.png
 
 # Less

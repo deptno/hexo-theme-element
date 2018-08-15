@@ -1,25 +1,25 @@
 # Meta
-description: Private theme for artifact.me
-keywords: hexo,theme,artifact,otakism
+description: bglee.me
+keywords: deptno,bglee
 
 # Author
 author_avatar: https://avatars1.githubusercontent.com/u/1223020?s=400&u=c3a99ef61b76bff024adc28d0c884265fbea98a0&v=4
 
 # Search
-search: 
+search:
   enable: true
   service: hexo # swiftype/google/hexo/algolia/azure
-  # google 
-  google_api_key: 
-  google_engine_id: 
+  # google
+  google_api_key:
+  google_engine_id:
   # algolia
-  algolia_app_id: 
-  algolia_api_key: 
-  algolia_index_name: 
+  algolia_app_id:
+  algolia_api_key:
+  algolia_index_name:
   # azure
-  azure_service_name: 
-  azure_index_name: 
-  azure_query_key: 
+  azure_service_name:
+  azure_index_name:
+  azure_query_key:
 
 # Miscellaneous
 google_analytics: UA-74859643-1
@@ -46,16 +46,16 @@ social:
 - name: linkedin
   url: https://www.linkedin.com/in/bonggyun-lee-b55359b3/
 - name: weibo
-  url: 
+  url:
 - name: tumblr
-  url: 
+  url:
 - name: dribbble
-  url: 
+  url:
 - name: pinterest
-  url: 
+  url:
 - name: instagram
   url: https://www.instagram.com/deptno/
 - name: behance
-  url: 
+  url:
 - name: feed
   url: /atom.xml
